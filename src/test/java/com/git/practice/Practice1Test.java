@@ -6,7 +6,7 @@ public class Practice1Test {
 
 	@Test
 	public void practiceTest() {
-//comment add by person2s
+//comennt removed from the person2
 		System.out.println("Hi");
 	}
 }
