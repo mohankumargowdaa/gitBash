@@ -8,6 +8,10 @@ public class Practice1Test {
 	public void practiceTest() {
 
 
+
 		System.out.println("Bye");
+
+		System.out.println("Hi");
+
 	}
 }
