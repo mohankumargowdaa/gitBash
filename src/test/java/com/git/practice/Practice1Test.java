@@ -7,6 +7,9 @@ public class Practice1Test {
 	@Test
 	public void practiceTest() {
 
-		System.out.println("Hi");
+
+		System.out.println("Bye");
+System.out.println("Hi");
+
 	}
 }
