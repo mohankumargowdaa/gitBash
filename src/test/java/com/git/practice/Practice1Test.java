@@ -7,7 +7,7 @@ public class Practice1Test {
 	@Test
 	public void practiceTest() {
 //tyss removed
-//hi
+//person 2
 		System.out.println("Hi");
 	}
 }
