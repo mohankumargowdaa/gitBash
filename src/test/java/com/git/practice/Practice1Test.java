@@ -12,7 +12,6 @@ public class Practice1Test {
 		
 		System.out.println("Bye1");
 		System.out.println("Hi");
-		System.out.println("Hi");
 
 	}
 }
