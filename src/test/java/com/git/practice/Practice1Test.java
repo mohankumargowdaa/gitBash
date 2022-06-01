@@ -12,7 +12,7 @@ public class Practice1Test {
 
 //person1
 //hi
-
+//hi2
 		System.out.println("Hi");
 	}
 }
